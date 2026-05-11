@@ -1,3 +1,7 @@
+This has been pushed into my repo. 
+Name: Aayush Makkar
+USN: 1MS24CS004
+
 # Artificial Intelligence (AI)
 
 A project-based Artificial Intelligence (AI) playground.
